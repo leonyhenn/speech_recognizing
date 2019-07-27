@@ -6,5 +6,5 @@ Use Gaussian Mixture Models to classify and identify speakers and Kaldi, GSI to 
 
 Comprehensive description of this project is [here](https://github.com/leonyhenn/speech_recognizing/blob/master/CSC401_A3.pdf)
 
-Mark:  ## 100%. 
+# Mark: 100%. 
 It works perfectly.
